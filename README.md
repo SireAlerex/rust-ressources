@@ -17,6 +17,7 @@
 - [Cookbook](https://rust-lang-nursery.github.io/rust-cookbook/intro.html)
 - [Rustdoc Book](https://doc.rust-lang.org/rustdoc/index.html)
 - [Rustc Book](https://doc.rust-lang.org/rustc/index.html)
+- [Rustup Book](https://rust-lang.github.io/rustup/)
 - [Compiler Error Index](https://doc.rust-lang.org/error_codes/error-index.html)
 
 ### Application domain examples
@@ -42,10 +43,10 @@
 
 ### Books
 
-- [The Little Book of Rust Books](https://lborb.github.io/book/title-page.html)
 - [Rand Book](https://rust-random.github.io/book/intro.html)
 - [Rust Design Patterns](https://rust-unofficial.github.io/patterns/intro.html)
 - [Effective Rust](https://www.lurklurk.org/effective-rust/cover.html)
+- [Performance Book](https://nnethercote.github.io/perf-book/title-page.html)
 - [Zero to Production in Rust](https://www.lpalmieri.com/posts/2020-05-24-zero-to-production-0-foreword/)
 - [Easy Rust](https://dhghomon.github.io/easy_rust/Chapter_0.html)
 - [Little Book of Macros](https://danielkeep.github.io/tlborm/book/index.html)
@@ -55,11 +56,15 @@
 
 ### Interpreter
 - [LALRPOP Lexer](http://lalrpop.github.io/lalrpop/index.html)
-- [Writing an Interpreter](https://rust-hosted-langs.github.io/book/introduction.html)
+- [Writing Interpreters in Rust](https://rust-hosted-langs.github.io/book/introduction.html)
+
+### Practical
+- [High Assurance](https://highassurance.rs/)
 
 ### Benchmark
 
 - [Criterion](https://bheisler.github.io/criterion.rs/book/criterion_rs.html)
+- [Hyperfine](https://github.com/sharkdp/hyperfine)
 
 ### Cheat sheets
 
@@ -69,3 +74,15 @@
 
 - [Blessed.rs](https://blessed.rs/crates)
 - [Areweyet](https://wiki.mozilla.org/Areweyet)
+
+## Other
+
+### Other lists
+
+- [The Little Book of Rust Books](https://lborb.github.io/book/title-page.html)
+- [Little Book of Rust Books]()
+- [Bunch of links](https://github.com/ctjhoa/rust-learning)
+
+### Commands
+
+- Knowing rustc version and target:  `rustc -vV`

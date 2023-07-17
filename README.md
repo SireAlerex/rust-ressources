@@ -56,6 +56,7 @@
 
 ### Interpreter
 - [LALRPOP Lexer](http://lalrpop.github.io/lalrpop/index.html)
+- [General Interpreter](http://craftinginterpreters.com/contents.html)
 - [Writing Interpreters in Rust](https://rust-hosted-langs.github.io/book/introduction.html)
 
 ### Practical
@@ -69,6 +70,7 @@
 ### Cheat sheets
 
 - [Containers](https://docs.google.com/presentation/d/1q-c7UAyrUlM-eZyTo1pd8SZ0qwA_wYxmPZVOQkoDmH4/edit?pli=1#slide=id.p)
+- [no_std table](https://google.github.io/comprehensive-rust/bare-metal/no_std.html)
 
 ### Websites
 
@@ -86,3 +88,8 @@
 ### Commands
 
 - Knowing rustc version and target:  `rustc -vV`
+
+## Crates
+### CLI
+- [clap](https://crates.io/crates/clap)
+- [termimad](https://crates.io/crates/termimad)
